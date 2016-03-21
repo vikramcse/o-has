@@ -22,8 +22,8 @@ console.log(has(a, 'name'));
 
 ### Explination
 
-In case we are using JavaScript objects for hashtable sulution then, 
-we can rely on any of its inherited properties such as **hasOwnProperty**
+In case we are using JavaScript objects for hashtable solution then, 
+we can't rely on any of its inherited properties such as **hasOwnProperty**
 here is an example
 
 ```js
